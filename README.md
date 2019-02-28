@@ -10,19 +10,29 @@ A Python tool to create synthetic bounding-box data for evaluation of continous 
 
 - Open `main.py` and change values of TOTAL_IMAGES, IMAGE_DIMENSION and PADDING if required.
 - Run the program using `python3 main.py`
-- The Images and target co-ordinates are saved in numpy format in npy files `data.npy` and `target.npy` respectively.
-- The images are stacked along the 0th axis in `data` whereas the corresponding index of `target` contains the 4 coordinates [x,y,w,h] 
 
-    - where x,y are coodinates of top-left corner of rectange resp. 
-    - where w,h are width and height of the rectangle resp.
+- The Images and target co-ordinates are saved in numpy format in npy files `data.npy` and `target.npy` respectively.
+- The images are stacked along the 0th axis in `data` whereas the corresponding index of `target` contains the 4 coordinates [x1, y1, x2, y2]
+
+    - where x1,y1 are co-ordinates of top-left corner of rectange res.
+    - where x2,y2 are co-ordinates of bottom-right corner of rectange res.
 
 
 ### Prerequisites
 
 Python3 and OpenCV 3.2
 
+### Data Structure
 
-## Authors
+    - data.npy
+
+        ![](https://imgur.com/7VK5Fff.jpg)
+
+    - target.npy
+
+        ![](https://imgur.com/yEVoafQ.jpg)
+
+## Author
 
 * **Sanjeev Tripathi** - [LinkedIn](https://www.linkedin.com/in/sanjeev309/)
 
