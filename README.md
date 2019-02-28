@@ -24,13 +24,13 @@ Python3 and OpenCV 3.2
 
 ### Data Structure
 
-    - data.npy
+##### data.npy
 
-        ![](https://imgur.com/7VK5Fff.jpg)
+![](https://imgur.com/7VK5Fff.jpg)
 
-    - target.npy
+##### target.npy
 
-        ![](https://imgur.com/yEVoafQ.jpg)
+![](https://imgur.com/yEVoafQ.jpg)
 
 ## Author
 
