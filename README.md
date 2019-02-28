@@ -26,7 +26,7 @@ Python3 and OpenCV 3.2
 
 ##### data.npy
 
-![](https://imgur.com/7VK5Fff.jpg)
+![](https://imgur.com/Vix8EF9.jpg)
 
 ##### target.npy
 
