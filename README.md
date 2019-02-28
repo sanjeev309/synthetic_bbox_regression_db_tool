@@ -30,7 +30,7 @@ Python3 and OpenCV 3.2
 
 ##### target.npy
 
-![](https://imgur.com/yEVoafQ.jpg)
+![](https://imgur.com/lOG8cNQ.jpg)
 
 ## Author
 
