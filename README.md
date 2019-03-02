@@ -32,6 +32,16 @@ Python3 and OpenCV 3.2
 
 ![](https://imgur.com/yEVoafQ.jpg)
 
+### Sample Data
+
+Data :
+
+![](https://imgur.com/aY3zw9G.jpg)
+
+Target :
+
+`[0.37, 0.31, 0.91, 0.81]`
+
 ## Author
 
 * **Sanjeev Tripathi** - [LinkedIn](https://www.linkedin.com/in/sanjeev309/)
