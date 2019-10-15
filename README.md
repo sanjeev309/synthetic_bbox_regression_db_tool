@@ -1,6 +1,6 @@
 # Synthetic Bounding-Box Regression Database Tool
 
-A Python tool to create synthetic bounding-box data for evaluation of continous regression techniques.
+A Python tool to create synthetic bounding-box data for evaluation of deep regression techniques.
 
 ## Getting Started
 
